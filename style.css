@@ -1,0 +1,26 @@
+#bad {
+  color: #db394f;
+  font-weight: bold;
+  font-size: 40px;
+  display: inline;
+}
+
+h1,
+p {
+  color: #eee;
+}
+
+div {
+  background-color: #222;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+  margin-left: 400px;
+  border-radius: 10px;
+}
+
+#best {
+  color: green;
+  font-weight: bold;
+  font-size: 40px;
+}
